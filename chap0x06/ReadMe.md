@@ -125,7 +125,7 @@ pm list permission-groups
 
   + [官网给出的方法](https://developer.android.com/training/basics/firstapp/running-app),经测试可以使用。
 
-  + 一个简单粗暴地方法是直接将生成的apk文件传输到手机上安装运行
+  + 一个简单粗暴的方法是直接将生成的apk文件传输到手机上安装运行
 
     ![RealPhone](images/RealPhone.gif)
 
