@@ -198,6 +198,8 @@ pm list permission-groups
 + 运行一个模拟器后，卡，太卡了。。。
 
   ![lag](images/lag.PNG)
+  
+  + 尽量别运行非必要软件，慢慢做......
 
 ## 参考资料
 
@@ -207,3 +209,4 @@ pm list permission-groups
 + [ADB（四）---调用软件包管理器（pm）](https://blog.csdn.net/qq_19982677/article/details/115319041)
 + [Android studio如何更改应用程序的图标以及名称](https://blog.csdn.net/zhangkaidsy/article/details/74852470)
 + [Android studio隐藏app应用图标](https://blog.csdn.net/rgen_xiao/article/details/51219184)
++ [同学的作业](https://github.com/CUCCS/2021-mis-public-LyuLumos/tree/ch0x06)
