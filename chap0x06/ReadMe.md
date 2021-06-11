@@ -105,7 +105,7 @@ pm list permission-groups
 
 运行结果：
 
-![HelloWorldV1](images/HelloWorldV1.gif)
+![HelloWorldV1](images/HelloWorld1.gif)
 
 ### 回答问题
 
@@ -163,7 +163,7 @@ pm list permission-groups
 
   + 隐藏效果如下图所示：
 
-    ![HideApp](images/HideApp.gif)
+    ![HideApp](images/HideAppIcon.gif)
 
 ## HelloWorld v2
 
@@ -174,7 +174,7 @@ pm list permission-groups
 
 按照[课本](https://c4pr1c3.github.io/cuc-mis/chap0x06/exp.html#hello-world-v2)操作, 效果如下：
 
-![HelloWorldV2](images/HelloWorldV2.gif)
+![HelloWorldV2](images/HelloWorld2.gif)
 
 ### 回答问题
 
