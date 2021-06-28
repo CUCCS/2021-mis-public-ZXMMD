@@ -58,7 +58,7 @@
 8. 现在，我们有了`register_ok`的资源唯一标识符：`0x7f0b0025`，使用该唯一标识符进行关键字查找，我们可以定位到这一段代码：
 
    ```bash
-   ./smali/cn/edu/cuc/misdemo/DisplayMessageActivity.smali:    const v5, 0x7f0b0025
+   ./smali/cn/edu/cuc/misdemo/DisplayMessageActivity.smali:    const v0, 0x7f0b0025
    ```
 
    ![FindDisplayPage.PNG](images/FindDisplayPage.PNG)
